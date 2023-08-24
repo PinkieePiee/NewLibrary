@@ -1,3 +1,5 @@
+//Código para achar o quadrado de um número
+
 import javax.swing.*;
 
 public class TesteDois {
